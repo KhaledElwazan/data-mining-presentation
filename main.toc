@@ -1,0 +1,14 @@
+\beamer@sectionintoc {1}{Artificial Neural Networks}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Introduction}{4}{0}{1}
+\beamer@subsectionintoc {1}{2}{Single Artificial Neuron}{8}{0}{1}
+\beamer@subsectionintoc {1}{3}{Multilayered ANN}{15}{0}{1}
+\beamer@subsectionintoc {1}{4}{Building ANN}{17}{0}{1}
+\beamer@sectionintoc {2}{Decision Trees}{18}{0}{2}
+\beamer@subsectionintoc {2}{1}{Introduction}{19}{0}{2}
+\beamer@subsectionintoc {2}{2}{Building a Decision Tree}{22}{0}{2}
+\beamer@sectionintoc {3}{Clustering Analysis}{27}{0}{3}
+\beamer@subsectionintoc {3}{1}{Definition}{28}{0}{3}
+\beamer@subsectionintoc {3}{2}{Algorithms}{29}{0}{3}
+\beamer@sectionintoc {4}{Measuring the Performance of a Classifier}{31}{0}{4}
+\beamer@subsectionintoc {4}{1}{Confusion Matrix}{32}{0}{4}
+\beamer@subsectionintoc {4}{2}{Types of Errors}{33}{0}{4}
